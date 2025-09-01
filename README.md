@@ -1,4 +1,4 @@
-👟 Sneakers Store Backend with JWT Authentication and Role-Based Authorization - Java / Spring Boot
+# 👟 Sneakers Store Backend with JWT Authentication and Role-Based Authorization - Java / Spring Boot
 
 This project is a backend for a sneakers ecommerce system.
 It provides user authentication and authorization functionalities using JWT (JSON Web Tokens) and a role-based access control system.
@@ -7,7 +7,7 @@ The backend is built with Java / Spring Boot and uses PostgreSQL as the database
 
 ---
 
-📌 Features
+## 📌 Features
 
 User Authentication: User registration and login system.
 
@@ -21,7 +21,7 @@ Unit Testing: Controllers, repositories, and services tested with JUnit and Mock
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Java / Spring Boot → Backend framework.
 
@@ -35,7 +35,7 @@ JUnit4 / Mockito → Unit testing tools.
 
 ---
 
-📖 API Documentation
+## 📖 API Documentation
 
 The complete API documentation is available at the endpoint:
 
@@ -46,7 +46,7 @@ It is fully interactive and allows testing endpoints directly from the Swagger U
 
 ---
 
-⚙️ Installation & Usage
+## ⚙️ Installation & Usage
 
 1. Clone the repository
 
@@ -89,6 +89,6 @@ Open your browser at:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed with ❤️ by Samuel Baldasso
