@@ -48,12 +48,12 @@ It is fully interactive and allows testing endpoints directly from the Swagger U
 
 ## ⚙️ Installation & Usage
 
-1. Clone the repository
+### 1. Clone the repository
 
 git clone [REPOSITORY_URL]
 
 
-2. Navigate to the project folder and install dependencies
+### 2. Navigate to the project folder and install dependencies
 
 cd [PROJECT_FOLDER_NAME]
 mvn install
@@ -61,7 +61,7 @@ mvn install
 This will update dependencies and generate the application JAR if needed.
 
 
-3. (Optional) Install PostgreSQL 14
+### 3. (Optional) Install PostgreSQL 14
 
 Download from: PostgreSQL Official Website
 
@@ -72,20 +72,15 @@ Set postgres as the username and admin as the password for the PostgreSQL superu
 Create a new database named sneakers_store.
 
 
-
-4. Run the server
+### 4. Run the server
 
 Start the application using the main class in your preferred IDE (IntelliJ IDEA Community or Ultimate recommended).
 
 
-
-5. Access the API documentation
+### 5. Access the API documentation
 
 Open your browser at:
 👉 http://localhost:8080/swagger-ui/index.html
-
-
-
 
 ---
 
